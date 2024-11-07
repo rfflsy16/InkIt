@@ -14,7 +14,7 @@ const { Server } = require("socket.io");
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "https://ink-it-pink.vercel.app/",
+    origin: "https://ink-it-eydg.vercel.app/",
     methods: ["GET", "POST"],
     credentials: true
   }
