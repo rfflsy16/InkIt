@@ -14,18 +14,20 @@ const { Server } = require("socket.io");
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "https://ink-it-eydg.vercel.app/",
+    origin: ["https://ink-it-eydg.vercel.app", "https://ink-it-pink.vercel.app"], // gunakan array untuk kedua origin
     methods: ["GET", "POST"],
     credentials: true
   }
 });
 
+
 // Setup middleware express 🛠️
 app.use(cors({
-  origin: ["https://ink-it-eydg.vercel.app", "https://ink-it-pink.vercel.app"],
+  origin: "*",
   methods: ["GET", "POST"],
   credentials: true
 }));
+
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
