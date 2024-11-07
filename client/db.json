@@ -1,0 +1,428 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Hewan",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Anjing",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 2,
+                    "name": "Kucing",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 3,
+                    "name": "Gajah",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 4,
+                    "name": "Singa",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 5,
+                    "name": "Jerapah",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 6,
+                    "name": "Monyet",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 7,
+                    "name": "Pinguin",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 8,
+                    "name": "Kangguru",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 9,
+                    "name": "Ular",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 10,
+                    "name": "Beruang",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 11,
+                    "name": "Kelinci",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 12,
+                    "name": "Harimau",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 13,
+                    "name": "Zebra",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 14,
+                    "name": "Panda",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 15,
+                    "name": "Koala",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 16,
+                    "name": "Kuda Nil",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 17,
+                    "name": "Buaya",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 18,
+                    "name": "Ayam",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 19,
+                    "name": "Bebek",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 20,
+                    "name": "Burung Hantu",
+                    "difficulty": "sedang"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Makanan",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Nasi Goreng",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 2,
+                    "name": "Rendang",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 3,
+                    "name": "Sate",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 4,
+                    "name": "Bakso",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 5,
+                    "name": "Mie Goreng",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 6,
+                    "name": "Soto",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 7,
+                    "name": "Gado-gado",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 8,
+                    "name": "Martabak",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 9,
+                    "name": "Sushi",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 10,
+                    "name": "Pizza",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 11,
+                    "name": "Burger",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 12,
+                    "name": "Es Krim",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 13,
+                    "name": "Nasi Uduk",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 14,
+                    "name": "Nasi Kuning",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 15,
+                    "name": "Bubur Ayam",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 16,
+                    "name": "Pempek",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 17,
+                    "name": "Siomay",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 18,
+                    "name": "Batagor",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 19,
+                    "name": "Ketoprak",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 20,
+                    "name": "Nasi Campur",
+                    "difficulty": "sulit"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Tempat",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Pantai",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 2,
+                    "name": "Gunung",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 3,
+                    "name": "Mall",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 4,
+                    "name": "Sekolah",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 5,
+                    "name": "Rumah Sakit",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 6,
+                    "name": "Stasiun",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 7,
+                    "name": "Bandara",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 8,
+                    "name": "Taman",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 9,
+                    "name": "Kebun Binatang",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 10,
+                    "name": "Museum",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 11,
+                    "name": "Perpustakaan",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 12,
+                    "name": "Stadion",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 13,
+                    "name": "Pasar",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 14,
+                    "name": "Masjid",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 15,
+                    "name": "Gereja",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 16,
+                    "name": "Kantor",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 17,
+                    "name": "Air Terjun",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 18,
+                    "name": "Hutan",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 19,
+                    "name": "Danau",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 20,
+                    "name": "Taman Bermain",
+                    "difficulty": "sedang"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Benda",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Pensil",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 2,
+                    "name": "Buku",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 3,
+                    "name": "Handphone",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 4,
+                    "name": "Laptop",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 5,
+                    "name": "Jam Tangan",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 6,
+                    "name": "Kacamata",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 7,
+                    "name": "Sepatu",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 8,
+                    "name": "Tas",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 9,
+                    "name": "Televisi",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 10,
+                    "name": "Kulkas",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 11,
+                    "name": "Kipas Angin",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 12,
+                    "name": "Kursi",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 13,
+                    "name": "Meja",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 14,
+                    "name": "Lampu",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 15,
+                    "name": "Payung",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 16,
+                    "name": "Kamera",
+                    "difficulty": "sulit"
+                },
+                {
+                    "id": 17,
+                    "name": "Kompor",
+                    "difficulty": "sedang"
+                },
+                {
+                    "id": 18,
+                    "name": "Panci",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 19,
+                    "name": "Sendok",
+                    "difficulty": "mudah"
+                },
+                {
+                    "id": 20,
+                    "name": "Garpu",
+                    "difficulty": "mudah"
+                }
+            ]
+        }
+    ]
+}

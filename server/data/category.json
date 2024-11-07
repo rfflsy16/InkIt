@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Hewan"
+  },
+  {
+    "id": 2,
+    "name": "Buah"
+  },
+  {
+    "id": 3,
+    "name": "Kendaraan"
+  },
+  {
+    "id": 4,
+    "name": "Negara"
+  },
+  {
+    "id": 5,
+    "name": "Makanan"
+  },
+  {
+    "id": 6,
+    "name": "Alat Musik"
+  },
+  {
+    "id": 7,
+    "name": "Warna"
+  },
+  {
+    "id": 8,
+    "name": "Olahraga"
+  }
+]

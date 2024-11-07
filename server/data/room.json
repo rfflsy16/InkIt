@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Room A",
+    "status": "playing",
+    "CategoryId": 1,
+    "maxPlayer": 8,
+    "game": "drawing-game"
+  },
+  {
+    "name": "Room B",
+    "status": "waiting",
+    "CategoryId": 2,
+    "maxPlayer": 8,
+    "game": "typing-race"
+  },
+  {
+    "name": "Room C",
+    "status": "playing",
+    "CategoryId": 3,
+    "maxPlayer": 8,
+    "game": "drawing-game"
+  },
+  {
+    "name": "Room D",
+    "status": "playing",
+    "CategoryId": 1,
+    "maxPlayer": 8,
+    "game": "typing-race"
+  },
+  {
+    "name": "Room E",
+    "status": "waiting",
+    "CategoryId": 2,
+    "maxPlayer": 8,
+    "game": "drawing-game"
+  }
+]

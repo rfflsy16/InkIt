@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "paragraph": "Ini adalah paragraf pertama yang berisi kalimat panjang untuk memberikan contoh bagaimana data paragraf dapat disimpan dalam format JSON. Paragraf ini memiliki ID unik yang dapat digunakan untuk mengidentifikasi setiap entri secara individual."
+  },
+  {
+    "id": 2,
+    "paragraph": "Paragraf kedua ini juga berisi kalimat panjang yang menjelaskan lebih lanjut tentang struktur data dan pentingnya memiliki ID unik untuk setiap paragraf. Dengan cara ini, kita dapat dengan mudah mengelola dan mengakses data paragraf sesuai kebutuhan."
+  },
+  {
+    "id": 3,
+    "paragraph": "Paragraf ketiga memberikan contoh tambahan tentang bagaimana kita dapat menyimpan informasi dalam format JSON. Setiap paragraf memiliki ID dan konten yang berbeda, yang memungkinkan fleksibilitas dalam penyimpanan dan pengambilan data."
+  },
+  {
+    "id": 4,
+    "paragraph": "Paragraf keempat ini memberikan contoh yang lebih kompleks dengan menggabungkan beberapa kalimat yang saling terkait. Ini membantu dalam memahami bagaimana JSON dapat menyimpan data yang lebih kompleks dan terstruktur."
+  },
+  {
+    "id": 5,
+    "paragraph": "Paragraf kelima ini memberikan contoh akhir dengan menggabungkan semua elemen yang telah dibahas sebelumnya. Ini membantu dalam memahami bagaimana JSON dapat menyimpan data yang beragam dan terorganisasi dengan baik."
+  },
+  {
+    "id": 6,
+    "paragraph": "Paragraf keenam ini memberikan contoh akhir dengan menggabungkan semua elemen yang telah dibahas sebelumnya. Ini membantu dalam memahami bagaimana JSON dapat menyimpan data yang beragam dan terorganisasi dengan baik."
+  },
+  {
+    "id": 7,
+    "paragraph": "Paragraf ketujuh ini memberikan contoh akhir dengan menggabungkan semua elemen yang telah dibahas sebelumnya. Ini membantu dalam memahami bagaimana JSON dapat menyimpan data yang beragam dan terorganisasi dengan baik."
+  }
+]
