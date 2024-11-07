@@ -9,11 +9,13 @@ const errorHandler = require("./middlewares/errorHandler");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 
+console
+
 // Buat HTTP server dan Socket.io server 🚀
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "http://localhost:5173",
+    origin: "https://ink-it-pink.vercel.app/",
     methods: ["GET", "POST"],
     credentials: true
   }
