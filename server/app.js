@@ -21,9 +21,9 @@ const io = new Server(httpServer, {
 });
 
 // Setup middleware express 🛠️
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(cors());
 app.use(router);
 app.use(errorHandler);
 
