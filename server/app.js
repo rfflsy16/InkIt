@@ -548,12 +548,13 @@ io.on("connection", (socket) => {
 // Helper function buat dapetin paragraf random 📝
 function getRandomParagraph() {
   const paragraphs = [
-    "Kucing berlari mengejar bola merah di taman yang indah sambil melompat-lompat dengan riang gembira.",
-    "Awan putih berarak di langit biru, burung-burung berkicau merdu menyambut pagi yang cerah.",
-    "Pohon mangga di halaman rumah berbuah lebat, anak-anak berebut memanjat untuk memetik buahnya.",
-    "Pantai yang tenang dihiasi ombak kecil, pasir putih berkilau ditimpa sinar matahari sore.",
-    "Gunung tinggi menjulang ke langit, kabut tipis menyelimuti puncaknya yang dingin dan sejuk."
+    "Seekor kucing berwarna abu-abu dan putih yang lincah berlari dengan cepat di sepanjang taman hijau sambil mengejar bola merah yang terus menggelinding. Taman tersebut dipenuhi bunga-bunga yang berwarna-warni dan pohon-pohon rindang yang menyejukkan. Sambil melompat-lompat dengan penuh keceriaan, kucing itu bermain tanpa lelah, mencakar-cakar bola dengan cakarnya yang mungil dan mengeong riang, menikmati sore yang cerah serta angin sepoi-sepoi yang bertiup lembut di sekelilingnya.",
+    "Awan putih yang besar berarak perlahan di langit biru yang membentang luas, tampak bergerak pelan seakan-akan melayang di antara bukit-bukit hijau yang menghiasi cakrawala. Burung-burung kecil berterbangan dari satu pohon ke pohon lainnya sambil berkicau merdu, menciptakan suasana pagi yang damai dan menyenangkan. Di bawah langit yang cerah, dedaunan pohon berdesir diterpa angin pagi yang sejuk, menambah keindahan alam yang mempesona.",
+    "Pohon mangga tua yang besar di halaman rumah itu dipenuhi buah-buah mangga yang kuning dan segar, menggantung lebat hingga hampir menyentuh tanah. Anak-anak di sekitar rumah datang beramai-ramai, saling berebut memanjat pohon untuk memetik mangga yang manis dan ranum. Dengan senyum ceria di wajah mereka, anak-anak itu menikmati sensasi memetik langsung dari pohon, seakan-akan sedang mengalami petualangan kecil yang menyenangkan di kebun belakang.",
+    "Pantai yang indah dengan hamparan pasir putih yang luas terlihat tenang, dihiasi oleh ombak kecil yang datang bergulung-gulung secara perlahan. Pasir putih tersebut tampak berkilauan seperti berlian yang disinari oleh cahaya matahari sore yang kemerahan. Suasana semakin syahdu dengan angin lembut yang berhembus, membawa aroma laut yang khas dan menyegarkan. Di kejauhan, beberapa burung camar terlihat beterbangan di atas air yang biru, menambah pesona pantai yang memikat hati.",
+    "Gunung yang menjulang tinggi di kejauhan tampak megah, berdiri kokoh dengan puncaknya yang diselimuti oleh kabut tipis. Pemandangan ini menambah kesan dingin dan misterius pada gunung tersebut. Di lereng-lerengnya, pohon-pohon pinus tumbuh berjejer rapi, memberikan kesan alami yang mempesona. Angin pegunungan yang sejuk berhembus lembut, membawa udara dingin yang menenangkan. Dari kejauhan, suara-suara alam terdengar, menciptakan suasana hening yang damai di tengah alam yang asri."
   ];
+
   return paragraphs[Math.floor(Math.random() * paragraphs.length)];
 }
 
