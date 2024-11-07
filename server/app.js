@@ -9,7 +9,6 @@ const errorHandler = require("./middlewares/errorHandler");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 
-console
 
 // Buat HTTP server dan Socket.io server 🚀
 const httpServer = createServer(app);
