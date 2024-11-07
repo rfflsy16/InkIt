@@ -3,7 +3,7 @@ import HomePage from "../views/HomePage";
 import DrawingPage from "../views/DrawingPage";
 import TypingPage from "../views/TypingPage";
 
-const base_url = "http://localhost:3024";
+const base_url = "https://server-inkit.rafflesy.site";
 
 const router = createBrowserRouter([
   {
