@@ -21,7 +21,12 @@ const io = new Server(httpServer, {
 });
 
 // Setup middleware express 🛠️
-app.use(cors());
+app.use(cors({
+  origin: ["https://ink-it-eydg.vercel.app", "https://ink-it-pink.vercel.app"],
+  methods: ["GET", "POST"],
+  credentials: true
+}));
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(router);
